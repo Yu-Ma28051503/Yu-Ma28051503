@@ -13,6 +13,7 @@ WebPage: [https://yu-ma28051503.github.io/](https://yu-ma28051503.github.io/)
     color : 色
 -->
 
+### Languages
 <!-- 言語系 -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html&style=plastic)
 ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css&style=plastic)
@@ -23,6 +24,7 @@ WebPage: [https://yu-ma28051503.github.io/](https://yu-ma28051503.github.io/)
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&style=plastic)
 ![Rust](https://img.shields.io/badge/Rust-000000.svg?logo=rust&style=plastic)
 
+### Frameworks & Libraries
 <!-- フレームワーク・ライブラリ系 -->
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&style=plastic)
 ![Terminal CSS](https://img.shields.io/badge/Terminal_CSS-000000.svg?logo=css&style=plastic)
@@ -32,6 +34,7 @@ WebPage: [https://yu-ma28051503.github.io/](https://yu-ma28051503.github.io/)
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?logo=flask&style=plastic)
 ![Hono](https://img.shields.io/badge/Hono-000000.svg?logo=hono&style=plastic)
 
+### Middleware & Database
 <!-- ミドルウェア・データベース系 -->
 ![Apache2](https://img.shields.io/badge/Apache2-000000.svg?logo=apache&style=plastic)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&style=plastic)
@@ -39,12 +42,14 @@ WebPage: [https://yu-ma28051503.github.io/](https://yu-ma28051503.github.io/)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&style=plastic)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?logo=firebase&style=plastic)
 
+### OS & Distribution
 <!-- OSなど -->
 ![Linux](https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A.svg?logo=raspberry-pi&style=flat)
 ![Mac](https://img.shields.io/badge/-Mac-000000.svg?logo=apple&style=flat)
 
+### etc.
 <!-- ツールなど -->
 ![Git](https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat)

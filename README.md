@@ -14,7 +14,7 @@ WebPage: [https://yu-ma28051503.github.io/](https://yu-ma28051503.github.io/)
 -->
 
 ### Languages
-<!-- 言語系 -->_
+<!-- 言語系 -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&style=plastic)
 ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&style=plastic)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&style=plastic)
@@ -37,6 +37,7 @@ WebPage: [https://yu-ma28051503.github.io/](https://yu-ma28051503.github.io/)
 ### Middleware & Database
 <!-- ミドルウェア・データベース系 -->
 ![Apache2](https://img.shields.io/badge/Apache2-b8282c.svg?logo=apache&style=plastic)
+![Nginx](https://img.shields.io/badge/Nginx-269539.svg?logo=nginx&style=plastic)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&style=plastic)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?logo=sqlite&style=plastic)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&style=plastic)

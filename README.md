@@ -68,4 +68,7 @@ WebPage: [https://yu-ma28051503.github.io/](https://yu-ma28051503.github.io/)
 ![Zenn](https://img.shields.io/badge/-Zenn-3EA8FF.svg?logo=zenn&style=flat)
 
 ### Learning
+![CTF](https://img.shields.io/badge/-CTF-000000.svg?logo=ntfy&style=flat)
 ![Hack The Box](https://img.shields.io/badge/-Hack%20The%20Box-2C2C2C.svg?logo=hack-the-box&style=flat)
+![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42.svg?logo=tryhackme&style=flat)
+

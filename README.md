@@ -2,7 +2,7 @@
 ![Profile view counter](https://komarev.com/ghpvc/?username=yu-ma28051503&color=86cecb&style=plastic)
 # Hi, I'm UMA(ゆーま) 👋
 
-WebPage: [https://yu-ma28051503.github.io/](https://yu-ma28051503.github.io/)
+WebPage: [https://yu-ma28051503.github.io/](https://me.umayuma.com/)
 
 ## My Skills
 
